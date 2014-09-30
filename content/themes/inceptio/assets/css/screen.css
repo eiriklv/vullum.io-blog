@@ -246,7 +246,7 @@ p, ul, ol, dl {
     -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-    margin: 0 0 1.75em 0;
+    margin: 0 0 3.5em 0;
 }
 
 ol, ul {
@@ -296,7 +296,7 @@ hr {
 blockquote {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin: 1.75em 0 1.75em -2.2em;
+    margin: 3.5em 0 3.5em -2.2em;
     padding: 0 0 0 1.75em;
     border-left: #4A4A4A 0.4em solid;
 }
@@ -420,7 +420,7 @@ table.plain tbody > tr:nth-child(odd) > th {
 
 iframe, .fluid-width-video-wrapper {
     display: block;
-    margin: 1.75em 0;
+    margin: 3.5em 0;
 }
 
 /* When a video is inside the fitvids wrapper, drop the
@@ -848,7 +848,7 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 .post-template .post-header {
-   margin-bottom: 3.4rem;
+   margin-bottom: 3.5em;
 }
 
 .post-template .post-title {
@@ -903,7 +903,7 @@ body:not(.post-template) .post-title {
 /* The author credit area after the post */
 .post-footer {
     position: relative;
-    margin: 6rem 0 0 0;
+    margin: 6em 0 0 0;
     padding: 6rem 0 0 0;
     border-top: #EBF2F6 1px solid;
 }
@@ -1382,7 +1382,7 @@ body:not(.post-template) .post-title {
     }
 
     hr {
-        margin: 2.4em 0;
+        margin: 3.5em 0;
     }
 
     ol, ul {
@@ -1458,7 +1458,7 @@ body:not(.post-template) .post-title {
 @media only screen and (max-width: 500px) {
 
     .main-header {
-        margin-bottom: 15px;
+        margin-bottom: 35px;
         height: 40%;
     }
 
@@ -1545,7 +1545,7 @@ body:not(.post-template) .post-title {
         margin-left: 16px;
         margin-right: 16px;
         padding-bottom: 2rem;
-        line-height: 1.65em;
+        line-height: 1.75em;
     }
 
     .post-date {
@@ -1553,7 +1553,7 @@ body:not(.post-template) .post-title {
     }
 
     .post-template .post-header {
-        margin-bottom: 2rem;
+        margin-bottom: 3.5em;
     }
 
     .post-template .post-date {
@@ -1566,7 +1566,7 @@ body:not(.post-template) .post-title {
 
     p, ul, ol, dl {
         font-size: 0.95em;
-        margin: 0 0 2.5rem 0;
+        margin: 0 0 4.5rem 0;
     }
 
     .page-title {
