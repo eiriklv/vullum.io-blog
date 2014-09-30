@@ -28,8 +28,8 @@ config = {
     },
     production: {
         url: 'http://blog.vullum.io',
-        updateCheck: false,
-        fileStorage: false,
+        updateCheck: true,
+        fileStorage: true,
         mail: {
             transport: 'SMTP',
             host: 'smtp.mandrillapp.com',
