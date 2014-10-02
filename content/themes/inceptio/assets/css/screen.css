@@ -246,7 +246,7 @@ p, ul, ol, dl {
     -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-    margin: 0 0 3.5em 0;
+    margin: 0 0 2.5em 0;
 }
 
 ol, ul {
@@ -1566,7 +1566,7 @@ body:not(.post-template) .post-title {
 
     p, ul, ol, dl {
         font-size: 0.95em;
-        margin: 0 0 4.5rem 0;
+        margin: 0 0 2.5em 0;
     }
 
     .page-title {
